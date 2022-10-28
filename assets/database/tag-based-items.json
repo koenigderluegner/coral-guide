@@ -1,0 +1,26 @@
+[
+    {
+        "key": "generic_spring_crop",
+        "tags": [
+            "item.crop.spring"
+        ],
+        "iconName": "Spring_Offerings.png",
+        "displayName": "Any Spring Crop"
+    },
+    {
+        "key": "Generic_TreeSeed",
+        "tags": [
+            "item.TreeSeed"
+        ],
+        "iconName": "treeIcon_Sprite.png",
+        "displayName": "Any tree Seed"
+    },
+    {
+        "key": "Generic_Seaweed",
+        "tags": [
+            "item.Seaweed"
+        ],
+        "iconName": "placeholder_icon.png",
+        "displayName": "Any Seaweed"
+    }
+]
