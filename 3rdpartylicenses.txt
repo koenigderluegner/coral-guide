@@ -66,6 +66,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 marked
 MIT
 # License information
