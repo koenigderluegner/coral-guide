@@ -1,1 +1,0 @@
-import{a as o}from"./chunk-3DPJGY4U.js";import{U as e}from"./chunk-PUZLTWSY.js";var s=(()=>{let t=class t extends o{constructor(){super("heart-events")}};t.\u0275fac=function(c){return new(c||t)},t.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"});let r=t;return r})();export{s as a};

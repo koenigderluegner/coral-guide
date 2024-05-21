@@ -1,5 +1,20 @@
 ## Changelog
 
+### 0.18.0 2024-05-21
+
+#### Added
+
+- Added data for beta 1.1 (game version v1.1-1051 on Steam)
+  - Go to [My guide -> Settings](/my/settings) to activate the beta.
+  - Some features received changes or weren't fetched correctly - this problem is known and will be fixed in the next few days (example NPC images)
+- Reactivated To-Do lists.
+    - To-Dos are now more flexible and can store all items. If context is given, they will be categorized else they will
+      go into "Uncategorized"-category at the end.
+    - Many categories/contexts were added
+- Added map icon, birthday, marriage possibility and description to NPC details
+- Made items in gifting grid clickable for details
+  - This does not apply for categories like "all fruits"
+
 ### 0.17.2 2024-03-28
 
 #### Changed
