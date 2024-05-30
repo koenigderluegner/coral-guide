@@ -1,5 +1,15 @@
 ## Changelog
 
+### 0.20.2 2024-05-30
+
+#### Added
+
+- Added birthdays to My Guide
+
+#### Changed
+
+- Improved portrait guesser algorithm to provide more NPC portraits
+
 ### 0.20.1 2024-05-29
 
 #### Changed
