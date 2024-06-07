@@ -1,5 +1,18 @@
 ## Changelog
 
+### 0.20.4 2024-06-07
+
+#### Added
+
+- \[Beta] Added item mixing to crafting
+    - This was also added to database
+- Added "Add to to-do"-button to database entries
+- \[Beta] Added ramen shop icon
+
+#### Changed
+
+- \[Beta] Updated beta data to v1.1-1122 (Steam version)
+
 ### 0.20.3 2024-06-06
 
 #### Changed
