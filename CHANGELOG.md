@@ -1,5 +1,16 @@
 ## Changelog
 
+### 0.22.0 2024-08-06
+
+#### Added
+
+- Added insects and ocean critters checklists to dashboard
+- Added small loading indicator when opening an item card.
+
+#### Changed
+
+- Added version to assets to bust caches. This should reduce/remove cases where old assets are shown.
+
 ### 0.21.1 2024-07-27
 
 #### Changed
