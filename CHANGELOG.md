@@ -1,5 +1,16 @@
 ## Changelog
 
+### 0.22.1 2024-08-10
+
+#### Added
+
+- Added thai language (data only, app stays english)
+
+#### Changed
+
+- Updated live data to v1.1-1223 (Steam version)
+- Fixed {harvestedCountLimit} not being replaced in crop descriptions
+
 ### 0.22.0 2024-08-06
 
 #### Added
