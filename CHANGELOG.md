@@ -1,5 +1,25 @@
 ## Changelog
 
+### 0.22.2 2024-08-31
+
+#### Added
+
+- Added information card to to-do lists
+- Added possibility to open NPC portraits in original size in a new tab
+    - for devices with cursors: move your cursor over an NPC image and the magnifying glass will appear, click on it to
+      open image
+    - for touch devices: tap on the image once to make the icon appear and click again on the icon to open the image
+- Added error page if a non-existing link was used (Error 404)
+
+#### Changed
+
+- Updated live data to v1.1-1226 (Steam version)
+- Removed duplicate 'uncategorized' to-do category
+- Fixed minor design error in card with much information
+- Fixed broken links to cooking utensils in detail cards
+- Changed changelog on start page to latest changelog only, all changes can be loaded lazily
+- Fixed caching problem with changelog after a new version appears
+
 ### 0.22.1 2024-08-10
 
 #### Added
@@ -119,7 +139,7 @@
     - Sidebars, main content and details now have their own scroll area
     - Fixed floating 'X' on detail cards
     - Reduced content jumping
-  - Fixed active highlight for processors when closing details
+    - Fixed active highlight for processors when closing details
 
 ### 0.19.0 2024-05-22
 
