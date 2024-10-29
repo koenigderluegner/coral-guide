@@ -105,7 +105,7 @@
         "type": "item",
         "item": {
           "id": "item_80120",
-          "displayName": "Deep sea elixir",
+          "displayName": "ยาน้ำสีฟ้าทะเลลึก",
           "iconName": "Deep_Sea_Elixir_Sprite"
         }
       },
@@ -115,7 +115,31 @@
       },
       {
         "type": "category",
-        "categoryName": "Wine"
+        "categoryName": "UnderwaterWine"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41020",
+          "displayName": "กาแฟเกชา",
+          "iconName": "Gesha_coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_72041",
+          "displayName": "บลูล็อบสเตอร์",
+          "iconName": "Blue_Lobster_Sprite"
+        }
       }
     ]
   },
@@ -153,7 +177,7 @@
         "type": "item",
         "item": {
           "id": "item_53101",
-          "displayName": "เกาหลัด",
+          "displayName": "เกาลัด",
           "iconName": "Chestnut_Sprite"
         }
       }
@@ -186,17 +210,6 @@
         }
       }
     ]
-  },
-  {
-    "npcKey": "Apo",
-    "characterName": "Apo",
-    "iconName": "None",
-    "birthday": {
-      "day": 8,
-      "season": "Spring",
-      "year": -1
-    },
-    "lovedGifts": []
   },
   {
     "npcKey": "Kenny",
@@ -611,7 +624,44 @@
       "season": "Spring",
       "year": -1
     },
-    "lovedGifts": []
+    "lovedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Cooking"
+      },
+      {
+        "type": "category",
+        "categoryName": "Shells"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41019",
+          "displayName": "กาแฟ",
+          "iconName": "Coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80018",
+          "displayName": "กล้วยทอด",
+          "iconName": "Banana_Fritter_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "Driedsnack"
+      }
+    ]
   },
   {
     "npcKey": "Macy",
@@ -906,6 +956,74 @@
     ]
   },
   {
+    "npcKey": "Sam",
+    "characterName": "Sam",
+    "iconName": "Icon_sam",
+    "birthday": {
+      "day": 8,
+      "season": "Summer",
+      "year": -1
+    },
+    "lovedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22001",
+          "displayName": "บลูเบอร์รี่",
+          "iconName": "Blueberry_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80014",
+          "displayName": "ทาร์ตผลไม้",
+          "iconName": "Fruit_Tart_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80075",
+          "displayName": "น้ำผลไม้",
+          "iconName": "Fruit_Juice_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31001",
+          "displayName": "เห็ดทรัฟเฟิลดำ",
+          "iconName": "Black_Truffle_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31020",
+          "displayName": "เห็ดทรัฟเฟิลขาว",
+          "iconName": "White_Truffle_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22021",
+          "displayName": "ขนุน",
+          "iconName": "Jackfruit_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_23015",
+          "displayName": "กระบองเพชร",
+          "iconName": "Cactus_Sprite"
+        }
+      }
+    ]
+  },
+  {
     "npcKey": "Agung",
     "characterName": "Agung",
     "iconName": "Icon_agung",
@@ -922,6 +1040,38 @@
       {
         "type": "category",
         "categoryName": "Gems"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31027",
+          "displayName": "นมเมอร์มู",
+          "iconName": "Mermoo_milk_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31028",
+          "displayName": "นมเมอร์มูขวดใหญ่",
+          "iconName": "Large_mermoo_milk_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80056",
+          "displayName": "เบอร์เกอร์สีรุ้ง",
+          "iconName": "Summer_Burger_Sprite"
+        }
       }
     ]
   },
@@ -953,11 +1103,43 @@
       },
       {
         "type": "category",
-        "categoryName": "Wine"
+        "categoryName": "UnderwaterWine"
       },
       {
         "type": "category",
         "categoryName": "Beer"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21084",
+          "displayName": "เพทาเลีย",
+          "iconName": "Petalia_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21074",
+          "displayName": "สปริงซีลีฟ",
+          "iconName": "Spring_Sealeaf_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterHoney"
+      },
+      {
+        "type": "category",
+        "categoryName": "Honey"
       }
     ]
   },
@@ -978,6 +1160,26 @@
       {
         "type": "category",
         "categoryName": "Gems"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "UnderwaterWine"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_50498",
+          "displayName": "ตรีศูลมังกร",
+          "iconName": "Dragons_trisula_Sprite"
+        }
       }
     ]
   },
@@ -1130,7 +1332,36 @@
       "season": "Summer",
       "year": -1
     },
-    "lovedGifts": []
+    "lovedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Cooking"
+      },
+      {
+        "type": "category",
+        "categoryName": "Shells"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "category",
+        "categoryName": "OceanCritters"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_21071",
+          "displayName": "สเปราท์ฟรู๊ต",
+          "iconName": "Sproutfruit_Sprite"
+        }
+      }
+    ]
   },
   {
     "npcKey": "Frank",
@@ -1558,7 +1789,7 @@
         "type": "item",
         "item": {
           "id": "item_131008",
-          "displayName": "ผีเสื้อหางติ่ง",
+          "displayName": "ผีเสื้อหางติ่งแถบฟ้าส้ม",
           "iconName": "Pipevine_Swallowtail_Butterfly_Sprite"
         }
       },
@@ -1613,6 +1844,46 @@
       {
         "type": "category",
         "categoryName": "Gems"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41172",
+          "displayName": "น้ำผึ้งดอกบัวผุดสีดำ",
+          "iconName": "Black_Honey_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41169",
+          "displayName": "น้ำผึ้งดอกบุกยักษ์สีดำ",
+          "iconName": "Black_Honey_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_62004",
+          "displayName": "สาหร่ายเคลป์ระดับออสเมี่ยม",
+          "iconName": "Osmium_Kelp_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_100011",
+          "displayName": "ขันธ์เครื่องบูชา",
+          "iconName": "Warp_sesajen_Sprite"
+        }
       }
     ]
   },
@@ -1740,15 +2011,63 @@
       },
       {
         "type": "category",
+        "categoryName": "Fruits"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_65008",
+          "displayName": "หุ่นไล่กา",
+          "iconName": "Ordinary_scarecrow_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80099",
+          "displayName": "แมงมุมเทมปูระ",
+          "iconName": "Spider_Tempura_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41020",
+          "displayName": "กาแฟเกชา",
+          "iconName": "Gesha_coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41019",
+          "displayName": "กาแฟ",
+          "iconName": "Coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_50433",
+          "displayName": "เข็มทิศโบราณ",
+          "iconName": "Ancient_Compass_Sprite"
+        }
+      },
+      {
+        "type": "category",
         "categoryName": "ArtisanGoods"
       },
       {
         "type": "category",
         "categoryName": "Flowers"
-      },
-      {
-        "type": "category",
-        "categoryName": "Fruits"
       },
       {
         "type": "category",
@@ -1777,6 +2096,38 @@
       {
         "type": "category",
         "categoryName": "Gems"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_32015",
+          "displayName": "ขนนกขนาดใหญ่",
+          "iconName": "Large_feather_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80086",
+          "displayName": "Serabi",
+          "iconName": "Serabi_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80003",
+          "displayName": "ขนมไหว้พระจันทร์",
+          "iconName": "Mooncake_Sprite"
+        }
       }
     ]
   },
@@ -2009,17 +2360,6 @@
     ]
   },
   {
-    "npcKey": "Jannu",
-    "characterName": "Jannu",
-    "iconName": "Icon_jannu",
-    "birthday": {
-      "day": 20,
-      "season": "Fall",
-      "year": -1
-    },
-    "lovedGifts": []
-  },
-  {
     "npcKey": "Rysy",
     "characterName": "Rysy",
     "iconName": "Icon_rysy",
@@ -2028,7 +2368,40 @@
       "season": "Fall",
       "year": -1
     },
-    "lovedGifts": []
+    "lovedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Shells"
+      },
+      {
+        "type": "category",
+        "categoryName": "Gems"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_61039",
+          "displayName": "โอปอลดำ",
+          "iconName": "Black_Opal_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_61019",
+          "displayName": "Onyx",
+          "iconName": "Onyx_Sprite"
+        }
+      }
+    ]
   },
   {
     "npcKey": "Dippa",
@@ -2152,7 +2525,7 @@
         "type": "item",
         "item": {
           "id": "item_80032",
-          "displayName": "เห็ดอบสมุนไพร",
+          "displayName": "เห็ดอบ",
           "iconName": "Roasted_Mushroom_Sprite"
         }
       },
@@ -2162,6 +2535,82 @@
           "id": "item_10001",
           "displayName": "กุหลาบดำ ",
           "iconName": "placeholder_icon"
+        }
+      }
+    ]
+  },
+  {
+    "npcKey": "Raj",
+    "characterName": "Raj",
+    "iconName": "Icon_raj",
+    "birthday": {
+      "day": 2,
+      "season": "Winter",
+      "year": -1
+    },
+    "lovedGifts": [
+      {
+        "type": "item",
+        "item": {
+          "id": "item_24002",
+          "displayName": "ใบชา",
+          "iconName": "Tea_Leaf_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_22012",
+          "displayName": "เมล็ดกาแฟ",
+          "iconName": "Coffee_Beans"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41019",
+          "displayName": "กาแฟ",
+          "iconName": "Coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_32003",
+          "displayName": "เมล็ดกาแฟเกชา",
+          "iconName": "Gesha_coffee_bean_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41020",
+          "displayName": "กาแฟเกชา",
+          "iconName": "Gesha_coffee_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_41021",
+          "displayName": "ชาเขียวร้อน",
+          "iconName": "Green_Tea_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80078",
+          "displayName": "พายแอปเปิ้ล",
+          "iconName": "Apple_Pie_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80067",
+          "displayName": "โดนัท",
+          "iconName": "Donut_Sprite"
         }
       }
     ]
@@ -2308,7 +2757,7 @@
         "type": "item",
         "item": {
           "id": "item_80021",
-          "displayName": "ขนมปังแบนหน้าเห็ดพริกหวาน",
+          "displayName": "ขนมปังแบนหน้าเห็ดพริกไทย",
           "iconName": "Pepper_and_Mushroom_Flatbread_Sprite"
         }
       },
@@ -2460,7 +2909,7 @@
         "type": "item",
         "item": {
           "id": "item_80032",
-          "displayName": "เห็ดอบสมุนไพร",
+          "displayName": "เห็ดอบ",
           "iconName": "Roasted_Mushroom_Sprite"
         }
       },
@@ -2507,7 +2956,52 @@
       "season": "Winter",
       "year": -1
     },
-    "lovedGifts": []
+    "lovedGifts": [
+      {
+        "type": "category",
+        "categoryName": "Cooking"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_65512",
+          "displayName": "เครื่องวัดอุณหภูมิ",
+          "iconName": "Temperature_Machine_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80085",
+          "displayName": "ขนมเหนียวชวา",
+          "iconName": "Cenil_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80089",
+          "displayName": "Jamu",
+          "iconName": "Jamu_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80068",
+          "displayName": "แกงลอแด๊ะ",
+          "iconName": "Lodeh_Sprite"
+        }
+      }
+    ]
   },
   {
     "npcKey": "Betty",
@@ -2618,6 +3112,22 @@
       {
         "type": "category",
         "categoryName": "Cooking"
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_31032",
+          "displayName": "ไข่มุกดำ",
+          "iconName": "Large_sphere_Sprite"
+        }
+      },
+      {
+        "type": "item",
+        "item": {
+          "id": "item_80096",
+          "displayName": "Klepon",
+          "iconName": "Klepon_Sprite"
+        }
       }
     ]
   },
