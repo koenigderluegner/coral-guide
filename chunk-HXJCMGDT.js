@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-73EV7BE6.js";import{ca as e}from"./chunk-ZXANYF3K.js";var s=(()=>{class t extends r{constructor(){super("heart-events")}static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{s as a};

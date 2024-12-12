@@ -1,0 +1,1 @@
+import{zb as e}from"./chunk-ZXANYF3K.js";var m=(()=>{class t{transform(i){return!!i&&"id"in i&&"displayName"in i&&"iconName"in i}static{this.\u0275fac=function(r){return new(r||t)}}static{this.\u0275pipe=e({name:"isMinimalItem",type:t,pure:!0})}}return t})();export{m as a};
