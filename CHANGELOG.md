@@ -1,5 +1,21 @@
 ## Changelog
 
+### 0.24.0 2025-02-06
+
+#### Added
+
+- Added custom text for to-dos to add custom written information.
+- Added possibility to create/delete/edit multiple user data (checklists, to-dos, etc.)
+  - You can choose a name to identify saves. You can't delete the last entry, create at least another one to delete the first one.
+- Added Favicon (browser icon) and app icons if installed to phone or pc.
+- Added more routes to be found by search engines and increasing performance for initial load
+
+#### Changed
+
+- Updated live data to v1.1-1234 (Steam version)
+- Fixed mastery unlocks showing "Value" instead of the mastery name.
+
+
 ### 0.23.0 2024-12-12
 
 This update includes a lot of technical changes. If something broke please let me know, thanks.

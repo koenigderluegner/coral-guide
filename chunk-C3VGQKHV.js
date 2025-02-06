@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-HB6QOK6I.js";import{_ as e}from"./chunk-J7WD3OMO.js";var n=(()=>{class t extends r{constructor(){super("museum")}static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{n as a};
