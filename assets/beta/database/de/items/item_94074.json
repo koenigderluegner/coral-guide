@@ -1,1 +1,20 @@
-{"item":{"id":"item_94074","displayName":"Ritterrüstung","price":1550,"sellPrice":930,"sellAt":[],"stackable":true,"inventoryCategory":"Decoration","displayKey":"Decoration","description":"Dekoration fürs Zuhause.","qualities":{},"iconName":"__0021_knight_s-armor_Sprite","tags":["Item.Furniture.MedievalStyle","Item.Furniture.Category.Plant","Item.Furniture.SubCategory.Floor Decor"]}}
+{
+  "item": {
+    "id": "item_94074",
+    "displayName": "Ritterrüstung",
+    "price": 1550,
+    "sellPrice": 930,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decoration",
+    "displayKey": "Decoration",
+    "description": "Dekoration fürs Zuhause.",
+    "qualities": {},
+    "iconName": "__0021_knight_s-armor_Sprite",
+    "tags": [
+      "Item.Furniture.MedievalStyle",
+      "Item.Furniture.Category.Plant",
+      "Item.Furniture.SubCategory.Floor Decor"
+    ]
+  }
+}

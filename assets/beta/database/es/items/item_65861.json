@@ -1,1 +1,16 @@
-{"item":{"id":"item_65861","displayName":"Decoración de flores multicolores.","price":10,"sellPrice":10,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"Colócalo en la granja.","qualities":{},"iconName":"Multicolor_flowers_Decor_Sprite","tags":[]}}
+{
+  "item": {
+    "id": "item_65861",
+    "displayName": "Decoración de flores multicolores.",
+    "price": 10,
+    "sellPrice": 10,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "Colócalo en la granja.",
+    "qualities": {},
+    "iconName": "Multicolor_flowers_Decor_Sprite",
+    "tags": []
+  }
+}

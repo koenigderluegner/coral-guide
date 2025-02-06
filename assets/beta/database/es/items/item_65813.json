@@ -1,1 +1,20 @@
-{"item":{"id":"item_65813","displayName":"Fósil de monstruo marino","price":2250,"sellPrice":1350,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"Colócalo en la granja.","qualities":{},"iconName":"Sea_monster_fossil_Sprite","tags":["Item.Decor.DeepSeaGrottoStyle","item.Decor.Category.Decorations","item.Decor.SubCategory.FloorDecor"]}}
+{
+  "item": {
+    "id": "item_65813",
+    "displayName": "Fósil de monstruo marino",
+    "price": 2250,
+    "sellPrice": 1350,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "Colócalo en la granja.",
+    "qualities": {},
+    "iconName": "Sea_monster_fossil_Sprite",
+    "tags": [
+      "Item.Decor.DeepSeaGrottoStyle",
+      "item.Decor.Category.Decorations",
+      "item.Decor.SubCategory.FloorDecor"
+    ]
+  }
+}

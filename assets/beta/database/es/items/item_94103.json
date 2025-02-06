@@ -1,1 +1,20 @@
-{"item":{"id":"item_94103","displayName":"Cristal mágico","price":2100,"sellPrice":1260,"sellAt":[],"stackable":true,"inventoryCategory":"Decoration","displayKey":"Decoration","description":"Decoración para el hogar.","qualities":{},"iconName":"Magic_Crystal_Sprite","tags":["Item.Furniture.WizardlyStyle","Item.Furniture.Category.Decoration","Item.Furniture.SubCategory.Floor Decor"]}}
+{
+  "item": {
+    "id": "item_94103",
+    "displayName": "Cristal mágico",
+    "price": 2100,
+    "sellPrice": 1260,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decoration",
+    "displayKey": "Decoration",
+    "description": "Decoración para el hogar.",
+    "qualities": {},
+    "iconName": "Magic_Crystal_Sprite",
+    "tags": [
+      "Item.Furniture.WizardlyStyle",
+      "Item.Furniture.Category.Decoration",
+      "Item.Furniture.SubCategory.Floor Decor"
+    ]
+  }
+}

@@ -1,1 +1,20 @@
-{"item":{"id":"item_65915","displayName":"Petit sentier en pierre primitif","price":11,"sellPrice":11,"sellAt":[],"stackable":true,"inventoryCategory":"Décoration","displayKey":"Decor","description":"A placer dans la ferme.","qualities":{},"iconName":"Primitive_stone_path_Sprite","tags":["item.Decor.StoneAgeStyle","item.Decor.Category.Exterior","item.Decor.SubCategory.Flooring"]}}
+{
+  "item": {
+    "id": "item_65915",
+    "displayName": "Petit sentier en pierre primitif",
+    "price": 11,
+    "sellPrice": 11,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Décoration",
+    "displayKey": "Decor",
+    "description": "A placer dans la ferme.",
+    "qualities": {},
+    "iconName": "Primitive_stone_path_Sprite",
+    "tags": [
+      "item.Decor.StoneAgeStyle",
+      "item.Decor.Category.Exterior",
+      "item.Decor.SubCategory.Flooring"
+    ]
+  }
+}

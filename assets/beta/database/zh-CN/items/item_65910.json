@@ -1,1 +1,20 @@
-{"item":{"id":"item_65910","displayName":"巨大气泡喷泉","price":5900,"sellPrice":3540,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"家庭装饰品。","qualities":{},"iconName":"placeholder_icon_Sprite","tags":["Item.Decor.CoralShellStyle","item.Decor.Category.Structure","item.Decor.SubCategory.Fountain"]}}
+{
+  "item": {
+    "id": "item_65910",
+    "displayName": "巨大气泡喷泉",
+    "price": 5900,
+    "sellPrice": 3540,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "家庭装饰品。",
+    "qualities": {},
+    "iconName": "placeholder_icon_Sprite",
+    "tags": [
+      "Item.Decor.CoralShellStyle",
+      "item.Decor.Category.Structure",
+      "item.Decor.SubCategory.Fountain"
+    ]
+  }
+}

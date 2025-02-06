@@ -1,1 +1,21 @@
-{"item":{"id":"item_21061-2","displayName":"Zweifarben-Meerblattsamen","price":115,"sellPrice":70,"sellAt":["MerfolkGeneral"],"stackable":true,"inventoryCategory":"Seeds","displayKey":"Seeds","description":"In jeder Jahreszeit pflanzen. Wächst in {cropGrowLength} Tagen. Bringt Bronze-Qualität hervor.","qualities":{},"iconName":"Twinshade_sealeaf_seeds_Sprite","tags":["income.oceanfarming","item.seed.crop.diving"]}}
+{
+  "item": {
+    "id": "item_21061-2",
+    "displayName": "Zweifarben-Meerblattsamen",
+    "price": 115,
+    "sellPrice": 70,
+    "sellAt": [
+      "MerfolkGeneral"
+    ],
+    "stackable": true,
+    "inventoryCategory": "Seeds",
+    "displayKey": "Seeds",
+    "description": "In jeder Jahreszeit pflanzen. Wächst in {cropGrowLength} Tagen. Bringt Bronze-Qualität hervor.",
+    "qualities": {},
+    "iconName": "Twinshade_sealeaf_seeds_Sprite",
+    "tags": [
+      "income.oceanfarming",
+      "item.seed.crop.diving"
+    ]
+  }
+}

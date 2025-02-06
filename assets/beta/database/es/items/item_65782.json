@@ -1,1 +1,20 @@
-{"item":{"id":"item_65782","displayName":"Columna de tallo pequeña","price":1250,"sellPrice":750,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"Colócalo en la granja.","qualities":{},"iconName":"Small_stalagnate_pillar_Sprite","tags":["Item.Decor.DeepSeaGrottoStyle","item.Decor.Category.Exterior","item.Decor.SubCategory.Arch"]}}
+{
+  "item": {
+    "id": "item_65782",
+    "displayName": "Columna de tallo pequeña",
+    "price": 1250,
+    "sellPrice": 750,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "Colócalo en la granja.",
+    "qualities": {},
+    "iconName": "Small_stalagnate_pillar_Sprite",
+    "tags": [
+      "Item.Decor.DeepSeaGrottoStyle",
+      "item.Decor.Category.Exterior",
+      "item.Decor.SubCategory.Arch"
+    ]
+  }
+}

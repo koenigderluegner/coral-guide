@@ -1,1 +1,20 @@
-{"item":{"id":"item_95066","displayName":"Alfombra redonda mágica","price":5250,"sellPrice":3150,"sellAt":[],"stackable":true,"inventoryCategory":"Decoration","displayKey":"Decoration","description":"Decoración para el hogar.","qualities":{},"iconName":"Magic_round_rug_Sprite","tags":["Item.Furniture.WizardlyStyle","Item.Furniture.Category.Decoration","Item.Furniture.SubCategory.Rug Large"]}}
+{
+  "item": {
+    "id": "item_95066",
+    "displayName": "Alfombra redonda mágica",
+    "price": 5250,
+    "sellPrice": 3150,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decoration",
+    "displayKey": "Decoration",
+    "description": "Decoración para el hogar.",
+    "qualities": {},
+    "iconName": "Magic_round_rug_Sprite",
+    "tags": [
+      "Item.Furniture.WizardlyStyle",
+      "Item.Furniture.Category.Decoration",
+      "Item.Furniture.SubCategory.Rug Large"
+    ]
+  }
+}

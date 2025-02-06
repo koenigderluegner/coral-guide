@@ -1,1 +1,20 @@
-{"item":{"id":"item_97062","displayName":"Vela de pared pequeña hechicera","price":1700,"sellPrice":1020,"sellAt":[],"stackable":true,"inventoryCategory":"Decoration","displayKey":"Decoration","description":"Decoración para el hogar.","qualities":{},"iconName":"Wizard_small_wall_candle_Sprite","tags":["Item.Furniture.WizardlyStyle","Item.Furniture.Category.Electronic","Item.Furniture.SubCategory.WallLamp"]}}
+{
+  "item": {
+    "id": "item_97062",
+    "displayName": "Vela de pared pequeña hechicera",
+    "price": 1700,
+    "sellPrice": 1020,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decoration",
+    "displayKey": "Decoration",
+    "description": "Decoración para el hogar.",
+    "qualities": {},
+    "iconName": "Wizard_small_wall_candle_Sprite",
+    "tags": [
+      "Item.Furniture.WizardlyStyle",
+      "Item.Furniture.Category.Electronic",
+      "Item.Furniture.SubCategory.WallLamp"
+    ]
+  }
+}

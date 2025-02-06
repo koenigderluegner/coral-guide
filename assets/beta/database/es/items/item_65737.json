@@ -1,1 +1,20 @@
-{"item":{"id":"item_65737","displayName":"Decoración de seta blanca grande","price":4000,"sellPrice":560,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"Colócalo en la granja.","qualities":{},"iconName":"White_mushroom_decor_Sprite","tags":["item.Decor.MushroomStyle","item.Decor.Category.Plant","item.Decor.SubCategory.Shrub"]}}
+{
+  "item": {
+    "id": "item_65737",
+    "displayName": "Decoración de seta blanca grande",
+    "price": 4000,
+    "sellPrice": 560,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "Colócalo en la granja.",
+    "qualities": {},
+    "iconName": "White_mushroom_decor_Sprite",
+    "tags": [
+      "item.Decor.MushroomStyle",
+      "item.Decor.Category.Plant",
+      "item.Decor.SubCategory.Shrub"
+    ]
+  }
+}

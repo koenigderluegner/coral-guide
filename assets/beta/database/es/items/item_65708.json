@@ -1,1 +1,20 @@
-{"item":{"id":"item_65708","displayName":"Mandrágora","price":2150,"sellPrice":1290,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"Colócalo en la granja.","qualities":{},"iconName":"Mandragora_Plant_Sprite","tags":["Item.Decor.WizardlyStyle","item.Decor.Category.Plant","item.Decor.SubCategory.PottedPlant"]}}
+{
+  "item": {
+    "id": "item_65708",
+    "displayName": "Mandrágora",
+    "price": 2150,
+    "sellPrice": 1290,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "Colócalo en la granja.",
+    "qualities": {},
+    "iconName": "Mandragora_Plant_Sprite",
+    "tags": [
+      "Item.Decor.WizardlyStyle",
+      "item.Decor.Category.Plant",
+      "item.Decor.SubCategory.PottedPlant"
+    ]
+  }
+}

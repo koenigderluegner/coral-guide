@@ -1,1 +1,20 @@
-{"item":{"id":"item_65685","displayName":"Carruaje gótico","price":4650,"sellPrice":2790,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"Colócalo en la granja.","qualities":{},"iconName":"Gothic_carriage_Sprite","tags":["Item.Decor.HauntedGothicStyle","item.Decor.Category.Decorations","item.Decor.SubCategory.FloorDecor"]}}
+{
+  "item": {
+    "id": "item_65685",
+    "displayName": "Carruaje gótico",
+    "price": 4650,
+    "sellPrice": 2790,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "Colócalo en la granja.",
+    "qualities": {},
+    "iconName": "Gothic_carriage_Sprite",
+    "tags": [
+      "Item.Decor.HauntedGothicStyle",
+      "item.Decor.Category.Decorations",
+      "item.Decor.SubCategory.FloorDecor"
+    ]
+  }
+}

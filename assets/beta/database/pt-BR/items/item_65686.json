@@ -1,1 +1,20 @@
-{"item":{"id":"item_65686","displayName":"Portão de metal gótico","price":1500,"sellPrice":900,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"Coloque na fazenda.","qualities":{},"iconName":"Gothic_metal_gate_Sprite","tags":["Item.Decor.HauntedGothicStyle","item.Decor.Category.Exterior","item.Decor.SubCategory.Arch"]}}
+{
+  "item": {
+    "id": "item_65686",
+    "displayName": "Portão de metal gótico",
+    "price": 1500,
+    "sellPrice": 900,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "Coloque na fazenda.",
+    "qualities": {},
+    "iconName": "Gothic_metal_gate_Sprite",
+    "tags": [
+      "Item.Decor.HauntedGothicStyle",
+      "item.Decor.Category.Exterior",
+      "item.Decor.SubCategory.Arch"
+    ]
+  }
+}

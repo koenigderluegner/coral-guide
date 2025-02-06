@@ -1,1 +1,16 @@
-{"item":{"id":"item_99326","displayName":"Mermaid theme flooring 14","price":10,"sellPrice":10,"sellAt":[],"stackable":true,"inventoryCategory":"Floors","displayKey":"Floors","description":"Plancher pour une pièce.","qualities":{},"iconName":"Mermaid_Theme_Flooring_14_Sprite","tags":[]}}
+{
+  "item": {
+    "id": "item_99326",
+    "displayName": "Mermaid theme flooring 14",
+    "price": 10,
+    "sellPrice": 10,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Floors",
+    "displayKey": "Floors",
+    "description": "Plancher pour une pièce.",
+    "qualities": {},
+    "iconName": "Mermaid_Theme_Flooring_14_Sprite",
+    "tags": []
+  }
+}

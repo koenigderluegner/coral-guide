@@ -1,1 +1,20 @@
-{"item":{"id":"item_65896","displayName":"高大绿色海带","price":800,"sellPrice":480,"sellAt":[],"stackable":true,"inventoryCategory":"Decor","displayKey":"Decor","description":"家庭装饰品。","qualities":{},"iconName":"placeholder_icon_Sprite","tags":["Item.Decor.CoralShellStyle","item.Decor.Category.Plant","item.Decor.SubCategory.Shrub"]}}
+{
+  "item": {
+    "id": "item_65896",
+    "displayName": "高大绿色海带",
+    "price": 800,
+    "sellPrice": 480,
+    "sellAt": [],
+    "stackable": true,
+    "inventoryCategory": "Decor",
+    "displayKey": "Decor",
+    "description": "家庭装饰品。",
+    "qualities": {},
+    "iconName": "placeholder_icon_Sprite",
+    "tags": [
+      "Item.Decor.CoralShellStyle",
+      "item.Decor.Category.Plant",
+      "item.Decor.SubCategory.Shrub"
+    ]
+  }
+}

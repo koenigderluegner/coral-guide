@@ -1,1 +1,21 @@
-{"item":{"id":"item_21058-2","displayName":"Rote Riffknospensamen","price":70,"sellPrice":42,"sellAt":["MerfolkGeneral"],"stackable":true,"inventoryCategory":"Seeds","displayKey":"Seeds","description":"In jeder Jahreszeit pflanzen. Wächst in {cropGrowLength} Tagen. Bringt Bronze-Qualität hervor.","qualities":{},"iconName":"Red_reefbud_seeds_Sprite","tags":["income.oceanfarming","item.seed.crop.diving"]}}
+{
+  "item": {
+    "id": "item_21058-2",
+    "displayName": "Rote Riffknospensamen",
+    "price": 70,
+    "sellPrice": 42,
+    "sellAt": [
+      "MerfolkGeneral"
+    ],
+    "stackable": true,
+    "inventoryCategory": "Seeds",
+    "displayKey": "Seeds",
+    "description": "In jeder Jahreszeit pflanzen. Wächst in {cropGrowLength} Tagen. Bringt Bronze-Qualität hervor.",
+    "qualities": {},
+    "iconName": "Red_reefbud_seeds_Sprite",
+    "tags": [
+      "income.oceanfarming",
+      "item.seed.crop.diving"
+    ]
+  }
+}
