@@ -1,0 +1,1 @@
+import{vb as r}from"./chunk-GYX7HZX3.js";var n=(()=>{class t{transform(e){return`${e.day} ${e.season}`+(e.year<0?"":`, Year ${e.year}`)}static{this.\u0275fac=function(i){return new(i||t)}}static{this.\u0275pipe=r({name:"ingameDate",type:t,pure:!0})}}return t})();export{n as a};

@@ -1,1 +1,0 @@
-import{vb as e}from"./chunk-J7WD3OMO.js";var o=(()=>{class t{transform(r){return["F","E","D","C","B","A","S","SS"][r]??"unknown"}static{this.\u0275fac=function(n){return new(n||t)}}static{this.\u0275pipe=e({name:"townrank",type:t,pure:!0})}}return t})();export{o as a};

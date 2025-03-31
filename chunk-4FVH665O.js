@@ -1,0 +1,1 @@
+import{g as i}from"./chunk-SJRCRC22.js";import{vb as r}from"./chunk-GYX7HZX3.js";var f=(()=>{class t{transform(e){return e&&i(e)}static{this.\u0275fac=function(n){return new(n||t)}}static{this.\u0275pipe=r({name:"entityKey",type:t,pure:!0})}}return t})();export{f as a};

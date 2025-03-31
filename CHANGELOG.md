@@ -1,6 +1,17 @@
 ## Changelog
 
-### 0.24.0 2025-02-06
+### 0.25.0 2025-03-31
+
+#### Added
+
+- Added orchestra zones to checklists.
+
+#### Changed
+
+- Updated live data to v1.1-1237 (Steam version)
+- Fixed heart events details showing Key/Value instead of the actual values 
+
+###  0.24.0 2025-02-06
 
 #### Added
 

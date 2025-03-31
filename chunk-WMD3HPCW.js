@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-ROBS5SQF.js";import{_ as e}from"./chunk-GYX7HZX3.js";var s=(()=>{class t extends r{constructor(){super("offerings")}static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{s as a};

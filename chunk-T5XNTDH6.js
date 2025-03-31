@@ -1,0 +1,1 @@
+import{vb as e}from"./chunk-GYX7HZX3.js";var a=(()=>{class t{transform(r){return`${r.hours.toString().padStart(2,"0")}:${r.minutes.toString().padStart(2,"0")}`}static{this.\u0275fac=function(i){return new(i||t)}}static{this.\u0275pipe=e({name:"ingameTime",type:t,pure:!0})}}return t})();export{a};
