@@ -1,0 +1,1 @@
+import{nb as i}from"./chunk-FPTGDBQG.js";var s=(()=>{let r=class r{transform(t){return`${t.day} ${t.season}`+(t.year<0?"":`, Year ${t.year}`)}};r.\u0275fac=function(a){return new(a||r)},r.\u0275pipe=i({name:"ingameDate",type:r,pure:!0});let e=r;return e})();export{s as a};

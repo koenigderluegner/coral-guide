@@ -1,0 +1,1 @@
+import{nb as i}from"./chunk-FPTGDBQG.js";var a=(()=>{let t=class t{transform(e){return["F","E","D","C","B","A","S","SS"][e]??"unknown"}};t.\u0275fac=function(n){return new(n||t)},t.\u0275pipe=i({name:"townrank",type:t,pure:!0});let r=t;return r})();export{a};

@@ -1,1 +1,0 @@
-import{ub as i}from"./chunk-GYX7HZX3.js";var s=(()=>{class t{static ngTemplateContextGuard(r,e){return!0}static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275dir=i({type:t,selectors:[["","appDatabaseItemDetails",""]]})}}return t})();export{s as a};

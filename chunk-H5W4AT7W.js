@@ -1,0 +1,1 @@
+import{nb as e}from"./chunk-FPTGDBQG.js";var p=(()=>{let i=class i{transform(t){return!!t&&"id"in t&&"displayName"in t&&"iconName"in t}};i.\u0275fac=function(n){return new(n||i)},i.\u0275pipe=e({name:"isMinimalItem",type:i,pure:!0});let r=i;return r})();export{p as a};

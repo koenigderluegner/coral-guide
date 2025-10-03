@@ -1,1 +1,0 @@
-import{vb as r}from"./chunk-GYX7HZX3.js";var p=(()=>{class t{transform(e){return Math.max(...e)}static{this.\u0275fac=function(i){return new(i||t)}}static{this.\u0275pipe=r({name:"max",type:t,pure:!0})}}return t})();export{p as a};
