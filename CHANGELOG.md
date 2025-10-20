@@ -1,5 +1,11 @@
 ## Changelog
 
+### 0.27.1 2025-10-20
+
+#### Changed
+
+- Updated live data to v1.2-1241 (Steam version)
+
 ### 0.27.0 2025-09-30
 
 #### Added

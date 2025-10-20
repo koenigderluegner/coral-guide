@@ -1,1 +1,0 @@
-import{g as n}from"./chunk-7C5Y62SY.js";import{nb as i}from"./chunk-FPTGDBQG.js";var m=(()=>{let t=class t{transform(r){return r&&n(r)}};t.\u0275fac=function(o){return new(o||t)},t.\u0275pipe=i({name:"entityKey",type:t,pure:!0});let e=t;return e})();export{m as a};

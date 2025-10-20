@@ -2568,6 +2568,10 @@
           "displayName": "กุหลาบดำ ",
           "iconName": "placeholder_icon"
         }
+      },
+      {
+        "type": "category",
+        "categoryName": "Fish"
       }
     ]
   },

@@ -1,1 +1,1 @@
-{"version":"0.27.0","date":"2025-09-30","body":"\r\n#### Added\r\n\r\n- Added first yield after x days to fruit trees in the journal.\r\n\r\n#### Changed\r\n\r\n- Updated live data to v1.2-1240 (Steam version)\r\n\r"}
+{"version":"0.27.1","date":"2025-10-20","body":"\r\n#### Changed\r\n\r\n- Updated live data to v1.2-1241 (Steam version)\r\n\r"}
