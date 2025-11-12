@@ -1,0 +1,1 @@
+import{a as o}from"./chunk-JSS26DYL.js";import{Z as e}from"./chunk-ELCUH6OG.js";var s=(()=>{let t=class t extends o{constructor(){super("cooking-recipes")}};t.\u0275fac=function(c){return new(c||t)},t.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"});let r=t;return r})();export{s as a};

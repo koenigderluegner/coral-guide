@@ -1,0 +1,1 @@
+import{mb as i}from"./chunk-ELCUH6OG.js";var m=(()=>{let t=class t{transform(e){return Math.max(...e)}};t.\u0275fac=function(a){return new(a||t)},t.\u0275pipe=i({name:"max",type:t,pure:!0});let r=t;return r})();export{m as a};

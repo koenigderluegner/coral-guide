@@ -1,0 +1,1 @@
+import{a,b,c,d,e}from"./chunk-C6P6X2N5.js";import"./chunk-YU6OV3L2.js";import"./chunk-PK2RARDK.js";import"./chunk-ELCUH6OG.js";import"./chunk-IGH4DTA6.js";export{a as MAT_PROGRESS_SPINNER_DEFAULT_OPTIONS,b as MAT_PROGRESS_SPINNER_DEFAULT_OPTIONS_FACTORY,c as MatProgressSpinner,e as MatProgressSpinnerModule,d as MatSpinner};

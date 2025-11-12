@@ -1,0 +1,1 @@
+import{lb as i}from"./chunk-ELCUH6OG.js";var n=(()=>{let t=class t{static ngTemplateContextGuard(c,r){return!0}};t.\u0275fac=function(r){return new(r||t)},t.\u0275dir=i({type:t,selectors:[["","appDatabaseItemDetails",""]]});let e=t;return e})();export{n as a};
